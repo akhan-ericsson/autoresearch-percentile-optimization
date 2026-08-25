@@ -1,0 +1,6 @@
+# Pin the torch version you verified under: bit-exact reproduction of
+# HELDOUT_SCORE = 1.477473 depends on it, as does thread count.
+#
+# The campaign ran on CPU. Record your environment alongside any reported score.
+torch>=2.0
+numpy

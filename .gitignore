@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Regenerable caches — rebuild from qft_reference.py rather than committing.
+# Committing these would push the repo into Git LFS for no verification benefit.
+qft_grid_headroom_cache.pt
+qft_distill_cache.pt
+qft_labels.pt
+
+# Run artifacts
+diagnostics.txt
