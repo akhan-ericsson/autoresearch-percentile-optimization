@@ -1,10 +1,8 @@
-# Agentic AI Autoresearch for Cell-Edge Power Control
+# Agentic Autoresearch for Cell-Edge Power Control
 
 Code, evaluator and campaign log for:
 
-> A. A. Khan, A. Bin Sediq, S. Azadegi Naeini and R. S. Adve, "Agentic AI
-> Autoresearch for Cell-Edge Power Control: Radically Redefining the
-> Researcher's Role."
+> A. A. Khan, A. Bin Sediq, S. Azadegi Naeini and R. S. Adve, "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role."
 
 An AI coding agent was given an immutable evaluator and a research charter, and
 authority over the architecture, input representation, output parameterization,
@@ -114,14 +112,19 @@ deviations are expected across environments; the campaign's own noise band was
 ## Citing
 
 ```bibtex
-@inproceedings{khan2026autoresearch,
-  author    = {Khan, Ahmad Ali and Bin Sediq, Akram and
-               Azadegi Naeini, Sara and Adve, Raviraj S.},
-  title     = {Agentic {AI} Autoresearch for Cell-Edge Power Control:
-               Radically Redefining the Researcher's Role},
-  booktitle = {IEEE Global Communications Conference (GLOBECOM) Workshops},
-  year      = {2026}
-}
+@misc{khan2026autoresearch,
+  author        = {Khan, Ahmad Ali and Bin Sediq, Akram and
+                   Azadegi Naeini, Sara and Adve, Raviraj S.},
+  title         = {Agentic Autoresearch for Cell-Edge Power Control:
+                   Radically Redefining the Researcher's Role},
+  year          = {2026},
+  eprint        = {ARXIVID},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.SP},
+  doi           = {10.48550/arXiv.ARXIVID},
+  url           = {https://arxiv.org/abs/ARXIVID},
+  note          = {Code and experiment log:
+                   \url{https://github.com/ahmadkhan2020-cyber/autoresearch}}
 ```
 
 ## License
